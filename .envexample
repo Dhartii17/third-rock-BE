@@ -1,0 +1,3 @@
+MONGO_URI=mongodb://127.0.0.1:27017/task-management-third-rock
+PORT=4000
+CLIENT_URL=http://localhost:5173
